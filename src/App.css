@@ -1,0 +1,33 @@
+.btn{
+
+    width:70px;
+    height:70px;
+    margin-bottom:4px
+    
+    }
+    
+    input{
+    margin-bottom:4px;
+    width: 229px!important;
+    
+    }
+    
+    .container{
+        margin-top: 69px;
+    }
+    .btn-bottom {
+        margin: 2px;
+        width: 43px!important;
+      }
+      .value{
+        margin: 2px!important;
+        width: 54px!important;
+      }
+      
+      .content{
+        border: 10px solid;
+        margin: auto;
+        width: 28%;
+        padding: 2px;
+      }
+      
