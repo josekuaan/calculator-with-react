@@ -33,11 +33,11 @@ class  App extends Component{
       }else if(val[1] === '*'){
 
         console.log(val[0])
-        result = val[0] * val[2]
+        result = val[0] *val[2]
 
       }else if(val[1] === '+'){
 
-        result = val[0] + val[2]
+        result = Number(val[0]) +  Number(val[2])
 
       }else if(val[1] === '-'){
 
